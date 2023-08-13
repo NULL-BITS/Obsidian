@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Teaming/Index of Teaming.md",
-                "mode": "preview",
+                "file": "Networking/Networking Area's/LAN/LAN.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "889aaea4612b63a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Basic_Linux_commands",
+                "query": "tag:#injection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Teaming/Index of Teaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Teaming/Index of Teaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +131,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pentesting/Teaming/Index of Teaming.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,35 +150,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc370518b85da1e",
+  "active": "889aaea4612b63a4",
   "lastOpenFiles": [
+    "Networking/Networking Area's/LAN/LAN.md",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Wireshark.md",
+    "Networking/Networking Area's/LAN/Index of LAN.md",
+    "LAN.md",
+    "Index of Obsidian.md",
+    "Networking/Networking Area's/Index of Networking Area's.md",
+    "Pentesting/Cheat Sheets/Index of Cheat Sheets.md",
+    "THX to Zoottelkeeper.md",
+    "Certifications/Index of Certifications.md",
+    "Certifications/Pentest Certs/Index of Pentest Certs.md",
+    "Certifications/Pentest Certs/CompTIA A+.md",
+    "Networking/Index of Networking.md",
+    "Certifications/Pentest Certs",
+    "Programming/Rust/Index of Rust.md",
+    "Operating Systems/Linux/Cheat Sheets/Linux_Cheat_Sheet.md",
+    "Operating Systems/Linux/Cheat Sheets/Index of Cheat Sheets.md",
+    "Operating Systems/Linux/Index of Linux.md",
+    "Pentesting/Teaming/Index of Teaming.md",
     "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/BEEF.md",
     "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Index of Kali Tools.md",
     "Pentesting/Pentesting Distributions/Kali lInux/Index of Kali lInux.md",
     "Pentesting/Pentesting Distributions/Kali Purple/Index of Kali Purple.md",
-    "Index of Obsidian.md",
     "SQLI.md",
     "Rust.md",
     "Linux.md",
     "Programming/Rust/Install and Remove/Install with Rustup.md",
     "Programming/Rust/Install and Remove/Index of Install and Remove.md",
     "Programming/Rust/Install and Remove",
-    "Programming/Rust/Install/Index of Install.md",
-    "Programming/Rust/uninstall/Index of uninstall.md",
-    "Programming/Rust/Index of Rust.md",
-    "Programming/Rust/Install and Remove/uninstall Rust.md",
-    "Programming/Python/Index of Python.md",
-    "Pentesting/Index of Pentesting.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/Index of Directory traversal.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Index of Server-side-Attacks.md",
-    "Pentesting/Pentesting Techniques/Index of Pentesting Techniques.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/Index of SQL injection.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/3. Prevent SQLI.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/2. SQL injection examples.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/1. What is SQL injection (SQLi)?.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/3. How to prevent a directory traversal attack.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/2. Directory traversal examples.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/1. What is directory traversal?.md",
     "Untitled.canvas",
     "Networking/Untitled",
     "Networking/Networking Area's/LAN",
@@ -184,7 +189,6 @@
     "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools",
     "Pentesting/Pentesting Distributions/Kali Purple",
     "Pentesting/Pentesting Distributions/Parrot",
-    "Pentesting/Pentesting Distributions/Kali lInux",
     "Linux/Linux.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
