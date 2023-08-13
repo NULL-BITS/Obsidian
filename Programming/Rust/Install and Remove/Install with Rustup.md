@@ -33,4 +33,4 @@ If, after installation, running `rustc --version` in the console fails, this is 
 
 If at any point you would like to uninstall Rust, you can run `rustup self uninstall`. We'll miss you though!
 
-[[Rust]]
+[[Index of Rust]]

@@ -35,4 +35,4 @@
 |`mail -s 'subject'   -c 'cc-address'`  <br>`-b 'bcc-address'   'to-address'   `|Command to send email|
 |`mail -s "Subject"   to-address < Filename   `|Command to send email with attachment|
 
-[[Linux]]
+[[Index of Linux]]

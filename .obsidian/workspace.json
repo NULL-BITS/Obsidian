@@ -11,30 +11,10 @@
             "id": "4fc370518b85da1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b70442e241a4898",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Linux/Cheat Sheets/Linux_Cheat_Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64f495cbaf4dc904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Cheat Sheets/SQLI cheat sheet.md",
-                "mode": "source",
+                "file": "Pentesting/Teaming/Index of Teaming.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pentesting/Teaming/Index of Teaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pentesting/Teaming/Index of Teaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pentesting/Teaming/Index of Teaming.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,48 +148,48 @@
   },
   "active": "4fc370518b85da1e",
   "lastOpenFiles": [
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/Directory traversal.md",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/BEEF.md",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Index of Kali Tools.md",
+    "Pentesting/Pentesting Distributions/Kali lInux/Index of Kali lInux.md",
+    "Pentesting/Pentesting Distributions/Kali Purple/Index of Kali Purple.md",
+    "Index of Obsidian.md",
+    "SQLI.md",
+    "Rust.md",
+    "Linux.md",
+    "Programming/Rust/Install and Remove/Install with Rustup.md",
+    "Programming/Rust/Install and Remove/Index of Install and Remove.md",
+    "Programming/Rust/Install and Remove",
+    "Programming/Rust/Install/Index of Install.md",
+    "Programming/Rust/uninstall/Index of uninstall.md",
+    "Programming/Rust/Index of Rust.md",
+    "Programming/Rust/Install and Remove/uninstall Rust.md",
+    "Programming/Python/Index of Python.md",
+    "Pentesting/Index of Pentesting.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/Index of Directory traversal.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Index of Server-side-Attacks.md",
+    "Pentesting/Pentesting Techniques/Index of Pentesting Techniques.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/Index of SQL injection.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/3. Prevent SQLI.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/2. SQL injection examples.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/1. What is SQL injection (SQLi)?.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/3. How to prevent a directory traversal attack.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/2. Directory traversal examples.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/1. What is directory traversal?.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/0. SQLI.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/3. Prevent SQLI.md",
-    "Pentesting/Pentesting Distributions/1. Kali Linux.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal",
-    "Pentesting/Teaming/Purple Teaming/Purple Teaming.md",
-    "Pentesting/Teaming/Red Teaming/Red Teaming.md",
-    "Pentesting/Pentesting Distributions/Pentesting Distributions.md",
-    "Pentesting/Pentesting Distributions/3. Kali Purple.md",
-    "Pentesting/Teaming/Pentest Teaming.md",
-    "Pentesting/Teaming/Teaming.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Server-side-Attacks.md",
-    "Pentesting/Pentesting Techniques/Pentesting Techniques.md",
-    "Pentesting/Pentesting Techniques",
-    "Pentesting/Pentesting Distributions/2. Parrot.md",
-    "Pentesting/Teaming/Blue Teaming/Blue Teaming.md",
-    "Pentesting/Teaming",
-    "Pentesting/Purple Teaming/Untitled",
-    "Pentesting/Teaming/Purple Teaming",
-    "Pentesting/Teaming/Blue Teaming",
-    "Pentesting/Red Teaming/Red Teaming",
-    "Pentesting/Teaming/Red Teaming",
-    "Certifications/Certifications.md",
-    "Networking/Networking.md",
-    "Certifications",
-    "Networking",
-    "Programming/Programming.md",
-    "Programming/Python/Python.md",
-    "Operating Systems/Operating Systems.md",
-    "Operating Systems/Windows/Windows.md",
-    "Operating Systems.md",
-    "Operating Systems/Linux/Cheat Sheets/Linux_Cheat_Sheet.md",
-    "Operating Systems/Linux/Linux.md",
+    "Untitled.canvas",
+    "Networking/Untitled",
+    "Networking/Networking Area's/LAN",
+    "Networking/Networking Area's",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Untitled",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Beef",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools",
+    "Pentesting/Pentesting Distributions/Kali Purple",
+    "Pentesting/Pentesting Distributions/Parrot",
+    "Pentesting/Pentesting Distributions/Kali lInux",
     "Linux/Linux.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

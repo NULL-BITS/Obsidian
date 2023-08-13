@@ -103,4 +103,4 @@ LANGUAGE=de inkscape
 
 Statt `de` kann man auch jede andere Sprache nehmen, z.B. `fr` für Französisch. Voraussetzung sind natürlich die jeweils separat zu installierenden [Sprachpakete](https://wiki.ubuntuusers.de/Spracheinstellungen/) (Lokalisierung).
 
-[[Linux]]
+[[Index of Linux]]
