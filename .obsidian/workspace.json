@@ -8,23 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad016a922a278638",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "4fc370518b85da1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -33,14 +21,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Operating Systems/Linux/Cheat Sheets/Linux_Cheat_Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64f495cbaf4dc904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Cheat Sheets/SQLI cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Basic_Linux_commands",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,9 +162,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b70442e241a4898",
+  "active": "4fc370518b85da1e",
   "lastOpenFiles": [
-    "test.md",
-    "Untitled.md"
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/Directory traversal.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/3. How to prevent a directory traversal attack.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/2. Directory traversal examples.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/1. What is directory traversal?.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/0. SQLI.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/SQL injection/3. Prevent SQLI.md",
+    "Pentesting/Pentesting Distributions/1. Kali Linux.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal",
+    "Pentesting/Teaming/Purple Teaming/Purple Teaming.md",
+    "Pentesting/Teaming/Red Teaming/Red Teaming.md",
+    "Pentesting/Pentesting Distributions/Pentesting Distributions.md",
+    "Pentesting/Pentesting Distributions/3. Kali Purple.md",
+    "Pentesting/Teaming/Pentest Teaming.md",
+    "Pentesting/Teaming/Teaming.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Server-side-Attacks.md",
+    "Pentesting/Pentesting Techniques/Pentesting Techniques.md",
+    "Pentesting/Pentesting Techniques",
+    "Pentesting/Pentesting Distributions/2. Parrot.md",
+    "Pentesting/Teaming/Blue Teaming/Blue Teaming.md",
+    "Pentesting/Teaming",
+    "Pentesting/Purple Teaming/Untitled",
+    "Pentesting/Teaming/Purple Teaming",
+    "Pentesting/Teaming/Blue Teaming",
+    "Pentesting/Red Teaming/Red Teaming",
+    "Pentesting/Teaming/Red Teaming",
+    "Certifications/Certifications.md",
+    "Networking/Networking.md",
+    "Certifications",
+    "Networking",
+    "Programming/Programming.md",
+    "Programming/Python/Python.md",
+    "Operating Systems/Operating Systems.md",
+    "Operating Systems/Windows/Windows.md",
+    "Operating Systems.md",
+    "Operating Systems/Linux/Cheat Sheets/Linux_Cheat_Sheet.md",
+    "Operating Systems/Linux/Linux.md",
+    "Linux/Linux.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
