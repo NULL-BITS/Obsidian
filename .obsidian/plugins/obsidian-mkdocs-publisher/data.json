@@ -2,7 +2,7 @@
   "github": {
     "user": "TomFang1",
     "repo": "Obsidian",
-    "branch": "main",
+    "branch": "test",
     "automaticallyMergePR": true,
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
