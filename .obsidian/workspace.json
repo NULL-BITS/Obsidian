@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Network Topology/4. Mesh Network Topology.md",
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Network Topology/4. Mesh Network Topology.md",
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Network Topology/4. Mesh Network Topology.md",
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Network Topology/4. Mesh Network Topology.md"
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md"
               }
             }
           }
@@ -161,42 +161,42 @@
   },
   "active": "4fc370518b85da1e",
   "lastOpenFiles": [
-    "Networking/Network Topology/4. Mesh Network Topology.md",
-    "Networking/Network Topology/3. Ring Network Topology.md",
-    "Networking/Network Topology/2. Bus Network Topology.md",
-    "Networking/Network Topology/1. Star Network Topology.md",
-    "Networking/Internet/Internet Connectivity. Computer and Network.md",
-    "Networking/Internet/Index of Internet.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/2. Exploiting Race Conditions.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/1. What are Race conditions.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/Index of Race conditions.md",
+    "Protocols/Internet Protocol/IP Versions/IPv4.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions",
+    "Networking/Routing/Delivery schemes/Unicast.md",
+    "Protocols/Internet Protocol/IP Versions/IPv6.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/3. Prevent OS command injection.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/2. OS command injection examples.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/1. What is OS command injection?.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/2. Directory traversal examples.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/Index of Command injection.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/3. How to prevent authentication vulnerabilities.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/2. How do authentication vulnerabilities work.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/1. What is authentication?.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Index of Authentication vulnerabilities.md",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Burpsuite.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/aircrack-ng.md",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Index of Kali Tools.md",
+    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Wireshark.md",
     "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/BEEF.md",
-    "Protocols/Internet Protocol/RDP.md",
+    "Pentesting/Pentesting Distributions/SQLI cheat sheet.md",
+    "Pentesting/Cheat Sheets/Index of Cheat Sheets.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/1. What is directory traversal?.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/Index of Directory traversal.md",
+    "Index of Obsidian.md",
+    "Models",
     "Protocols/OSI protocols/Layer 7 (Application Layer)",
     "Protocols/OSI protocols/Layer 6 (Presentation Layer)",
     "Protocols/OSI protocols/Layer 5 (Session Layer)",
     "Protocols/OSI protocols/Layer 4 (Transport Layer)",
     "Protocols/OSI protocols/Layer 3+4 (Protocol Suites)",
-    "Protocols/OSI protocols/Untitled.md",
     "Protocols/OSI protocols/Layer 3 (Network Layer)",
-    "Protocols/OSI protocols/Layer 2.5",
-    "Protocols/OSI protocols/Network Topology",
-    "Protocols/OSI protocols/Layer 2 (data link layer)",
-    "Protocols/OSI protocols/Layer 1 (physical layer)",
-    "Protocols/Internet Protocol/IGMP.md",
-    "Networking/Addresses/IP Address Ranges/What is a IP Address.md",
-    "Networking/Addresses/IP Address Ranges/Special IP Addresses.md",
-    "Networking/Addresses/IP Address Ranges/public IP address.md",
-    "Networking/Addresses/IP Address Ranges/private IP addresses.md",
-    "Networking/Addresses/IP Address Ranges/Index of IP Address Ranges.md",
-    "Networking/Addresses/MAC Address.md",
-    "Protocols/instant messaging protocols/Zephyr Notification Service.md",
-    "Protocols/instant messaging protocols/Matrix.md",
-    "Protocols/instant messaging protocols/Signal Protocol.md",
-    "Protocols/instant messaging protocols/IRC.md",
-    "Protocols/instant messaging protocols/Bonjour.md",
-    "Protocols/instant messaging protocols/Discord.md",
-    "Protocols/file transfer protocols/FTP ans SFTP.md",
-    "Protocols/file transfer protocols/HTTP and HTTPS.md",
-    "Networking/Types of Networks/Computer Network Diagrams.md",
-    "Protocols/Communication protocol/Bluetooth Protocols/Bluethooth.md",
     "Images/Desktops/kali-desktop-xfce.jpg",
     "Images/Desktops/kali-desktop-gnome.jpg",
     "Images/Desktops/kali-desktop-kde.jpg",
