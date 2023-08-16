@@ -1,0 +1,3 @@
+## Special IP Addresses
+
+- IP Range: 127.0.0.1 to 127.255.255.255 are network testing addresses (also referred to as loop-back addresses). These are virtual IP address, in that they cannot be assigned to a device. Specifically, the IP 127.0.0.1 is often used to troubleshoot network connectivity issues using the [_ping_ command](https://www.meridianoutpost.com/resources/articles/command-line/ping.php). Specifically, it tests a computer's TCP/IP network software driver to ensure it is working properly.
