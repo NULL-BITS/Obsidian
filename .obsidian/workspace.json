@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md"
+                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md"
               }
             }
           }
@@ -159,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc370518b85da1e",
+  "active": "334cb38a8050067f",
   "lastOpenFiles": [
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/2. Exploiting Race Conditions.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/3. Prevent race condition vulnerabilities.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/1. What are Race conditions.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions/Index of Race conditions.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/2. Exploiting Race Conditions.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/1. What are Race conditions.md",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/Index of Race conditions.md",
     "Protocols/Internet Protocol/IP Versions/IPv4.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Race conditions",
+    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions",
     "Networking/Routing/Delivery schemes/Unicast.md",
     "Protocols/Internet Protocol/IP Versions/IPv6.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/3. Prevent OS command injection.md",
