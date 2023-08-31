@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Networking/Routing/Delivery schemes/Anycast.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Networking/Routing/Delivery schemes/Anycast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Networking/Routing/Delivery schemes/Anycast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Networking/Routing/Delivery schemes/Anycast.md"
               }
             }
           }
@@ -173,42 +173,42 @@
   },
   "active": "31c32b690d265c7a",
   "lastOpenFiles": [
-    "Index of Obsidian.md",
-    "Untitled.md",
-    "Protocols/Internet Protocol/IGMP.md",
-    "Protocols/Communication protocol/Bluetooth Protocols/Bluethooth.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/2. Exploiting Race Conditions.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/1. What are Race conditions.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/Index of Race conditions.md",
+    "Networking/Routing/Delivery schemes/Broadcast.md",
+    "Networking/Routing/Delivery schemes/Anycast.md",
+    "Networking/Addresses/Dangers and Solutions with IP's.md",
+    "Networking/Addresses/MAC Address.md",
+    "Networking/Addresses/Index of Addresses.md",
+    "Networking/Subnetting/Networks/Class A.md",
+    "Networking/Subnetting/Networks/Class D.md",
+    "Networking/Subnetting/Networks/Class B.md",
+    "Networking/Subnetting/Networks/Class E.md",
+    "Protocols/Index of Protocols.md",
+    "Protocols/POE.md",
+    "Networking/Networking Devices/Index of Networking Devices.md",
+    "Protocols/Communication protocol/Index of Communication protocol.md",
+    "Protocols/Communication protocol/Bluetooth Protocols/Index of Bluetooth Protocols.md",
+    "Protocols/file transfer protocols/HTTP and HTTPS.md",
+    "Protocols/file transfer protocols/Index of file transfer protocols.md",
+    "Protocols/file transfer protocols/FTP ans SFTP.md",
+    "Protocols/instant messaging protocols/Index of instant messaging protocols.md",
+    "Protocols/instant messaging protocols/Discord.md",
     "Protocols/Internet Protocol/IP Versions/IPv4.md",
+    "Protocols/Internet Protocol/IGMP.md",
+    "Protocols/Internet Protocol/RDP.md",
+    "Protocols/Internet Protocol/Index of Internet Protocol.md",
+    "Protocols/TCP- and UDP-based protocols/TCP.md",
+    "Protocols/TCP- and UDP-based protocols/UDP.md",
+    "Protocols/TCP- and UDP-based protocols/Index of TCP- and UDP-based protocols.md",
+    "Networking/Networking Devices/Switch",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions",
-    "Networking/Routing/Delivery schemes/Unicast.md",
-    "Protocols/Internet Protocol/IP Versions/IPv6.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/3. Prevent OS command injection.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/2. OS command injection examples.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/1. What is OS command injection?.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/2. Directory traversal examples.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection/Index of Command injection.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/3. How to prevent authentication vulnerabilities.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Command injection",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/2. How do authentication vulnerabilities work.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/1. What is authentication?.md",
-    "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities/Index of Authentication vulnerabilities.md",
-    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Burpsuite.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Authentication vulnerabilities",
-    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/aircrack-ng.md",
-    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Index of Kali Tools.md",
-    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/Wireshark.md",
-    "Pentesting/Pentesting Distributions/Kali lInux/Kali Tools/BEEF.md",
-    "Pentesting/Pentesting Distributions/SQLI cheat sheet.md",
     "Models",
     "Protocols/OSI protocols/Layer 7 (Application Layer)",
     "Protocols/OSI protocols/Layer 6 (Presentation Layer)",
     "Protocols/OSI protocols/Layer 5 (Session Layer)",
     "Protocols/OSI protocols/Layer 4 (Transport Layer)",
     "Protocols/OSI protocols/Layer 3+4 (Protocol Suites)",
-    "Protocols/OSI protocols/Layer 3 (Network Layer)",
     "Images/Desktops/kali-desktop-xfce.jpg",
     "Images/Desktops/kali-desktop-gnome.jpg",
     "Images/Desktops/kali-desktop-kde.jpg",
