@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
+                "file": "Protocols/Internet Protocol/IGMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
+                "file": "Protocols/Internet Protocol/IGMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
+                "file": "Protocols/Internet Protocol/IGMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md"
+                "file": "Protocols/Internet Protocol/IGMP.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "334cb38a8050067f",
+  "active": "4fc370518b85da1e",
   "lastOpenFiles": [
+    "Protocols/Communication protocol/Bluetooth Protocols/Bluethooth.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/2. Exploiting Race Conditions.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/3. Prevent race condition vulnerabilities.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Race conditions/1. What are Race conditions.md",
@@ -189,7 +190,6 @@
     "Pentesting/Cheat Sheets/Index of Cheat Sheets.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/1. What is directory traversal?.md",
     "Pentesting/Pentesting Techniques/Server-side-Attacks/Directory traversal/Index of Directory traversal.md",
-    "Index of Obsidian.md",
     "Models",
     "Protocols/OSI protocols/Layer 7 (Application Layer)",
     "Protocols/OSI protocols/Layer 6 (Presentation Layer)",

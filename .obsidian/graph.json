@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "igmp",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 6.45833333333333,
   "linkStrength": 0.479166666666667,
   "linkDistance": 62,
-  "scale": 0.971438787404618,
-  "close": true
+  "scale": 0.6156200749898295,
+  "close": false
 }
