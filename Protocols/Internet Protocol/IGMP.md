@@ -2,6 +2,8 @@ Das **Internet Group Management Protocol** (**IGMP**) ist ein [Netzwerkprotokoll
 
 ## Verwendung
 
+..
+
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/IGMP_LAN.svg/220px-IGMP_LAN.svg.png)](https://de.wikipedia.org/wiki/Datei:IGMP_LAN.svg)
 
 Struktur von IGMP
